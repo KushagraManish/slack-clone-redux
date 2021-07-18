@@ -3,6 +3,7 @@
 <h1>Tech stack : React, Redux, Firebase, Firebase-hooks, Firebase-auth</h1>
 
 <h3>View Live at : https://slack-clone-kushu.web.app/
+<br/>
 
 Login Screen : 
 ![image](https://user-images.githubusercontent.com/60135994/126058671-9601f049-2393-4e58-aabc-bfaabd0b2845.png)
