@@ -1,6 +1,8 @@
-Tech stack : React, Redux, Firebase, Firebase-hooks, Firebase-auth
+# SLACK CLONE WITH REDUX
 
-View Live at : https://slack-clone-kushu.web.app/
+<h1>Tech stack : React, Redux, Firebase, Firebase-hooks, Firebase-auth</h1>
+
+<h3>View Live at : https://slack-clone-kushu.web.app/
 
 Login Screen : 
 ![image](https://user-images.githubusercontent.com/60135994/126058671-9601f049-2393-4e58-aabc-bfaabd0b2845.png)
@@ -19,4 +21,4 @@ On sending message:
 
 Use npm start to view the project at localhost:3000
 
-Use npm run build to make optimized production builds for deployment.
+Use npm run build to make optimized production builds for deployment. </h3>
